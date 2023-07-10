@@ -45,6 +45,9 @@ INSTALLED_APPS = [
     'ratings_and_reviews',
     'user_login',
     'product_cart',
+    'payment',
+    'refund',
+    'vendor',
 ]
 
 MIDDLEWARE = [
